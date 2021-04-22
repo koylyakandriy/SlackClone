@@ -36,7 +36,7 @@ const ChatInput = ({ channelName, channelId, chatRef }) => {
 
   return (
     <ChatInputContainer>
-      <form action="">
+      <form>
         <input
           value={value}
           onChange={({ target }) => onChange(target)}

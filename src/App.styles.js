@@ -11,6 +11,7 @@ export const AppLoading = styled.div`
   height: 100vh;
   width: 100%;
 `;
+
 export const AppLoadingContent = styled.div`
   text-align: center;
   padding-bottom: 100px;
